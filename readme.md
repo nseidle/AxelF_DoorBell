@@ -3,8 +3,6 @@ Axel F Door Bell
 
 ![Light up button](https://raw.githubusercontent.com/nseidle/AxelF_DoorBell/master/Button1.jpg)
 
-https://raw.githubusercontent.com/nseidle/AxelF_DoorBell/master/AxelF.ino
-
 Axel F Door Bell is a door bell at the [CU ATLAS BTU lab](http://atlas.colorado.edu/). The button pulses on/off. When you press it the melody to [Beverly Hills Cop](http://www.imdb.com/title/tt0086960/) plays while a solenoid taps out the beat.
 
 Parts
@@ -24,6 +22,8 @@ Parts
 
 License Information
 -------------------
+
+The [Axel F](http://en.wikipedia.org/wiki/Axel_F) song is probably owned by Harold Faltermeyer. I hope he doesn't mind.
 
 Written by Nathan Seidle / SparkFun Electronics
 
