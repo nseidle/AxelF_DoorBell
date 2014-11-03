@@ -70,7 +70,7 @@ void loop()
 {
   if(digitalRead(button) == LOW)
   {
-    delay(50); //Small debounce
+    delay(100); //Small debounce
     while(digitalRead(button) == LOW) ; //Wait for user to stop pressing button
 
     if(playing == true)
